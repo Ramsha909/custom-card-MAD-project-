@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#EC407A</color>
+    <color name="colorPrimaryDark">#EC407A</color>
+    <color name="colorAccent">#EC407A</color>
+    <color name="toolBar_color">#EC407A</color>
+    <color name="appBg">#FFFFFFFF</color>
+
+    <color name="bottomNav">#2C2C2C</color>
+    <color name="bottomNav_select">#EC407A</color>
+
+    <color name="editText_pro">#FF929292</color>
+    <color name="textView_hint_pro">#FF929292</color>
+    <color name="textView_hint_layout_pro">#EC407A</color>
+    <color name="textView_box_color">#FF929292</color>
+    <color name="textView_box_select_color">#EC407A</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">
+        @color/textView_box_color
+    </color>
+    <color name="cursor_editText">#EC407A</color>
+
+    <color name="black">#FF000000</color>
+    <color name="name_bg">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="imageView_setting">#000000</color>
+    <color name="view_setting">#D7D7D7</color>
+    <color name="textView_setting">#4A4A4A</color>
+    <color name="textView_sub_setting">#8b8b8b</color>
+    <color name="textView_them">#000000</color>
+    <color name="con_bg_them">#FFFFFF</color>
+
+    <color name="imageView_about_us">#888888</color>
+    <color name="textView_about_us">#636363</color>
+    <color name="textView_sub_about_us">#8b8b8b</color>
+
+    <color name="dialog_text">#000000</color>
+    <color name="dialog_text_button">#EC407A</color>
+
+    <color name="button">#EC407A</color>
+    <color name="textView_app_color">#EC407A</color>
+    <color name="textView_noData">#6F6F6F</color>
+    <color name="textView_select_text">#A6B9E1</color>
+
+</resources>
